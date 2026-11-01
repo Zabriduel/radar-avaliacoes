@@ -1,0 +1,201 @@
+﻿id,data,restaurante,nota,texto,tema_pedido,sentimento_pedido,ficticio
+1,2026-09-17,Pizzaria Imaginária,1,Atendimento péssimo no chat!! Cobrei a pizza de calabresa que tava atrasada e o atendente foi super ignorante comigo. Nunca mais peço nada aqui.,atendimento,negativo,True
+2,2026-10-12,Pizzaria Imaginária,1,Atendente do zap totalmente desqualificado. Mandei msg perguntando do refrigerante q faltou na entrega e me deixaram no vacuo total...,atendimento,negativo,True
+3,2026-09-15,Pizzaria Imaginária,2,"Mano que raiva, perguntei se a pizza de frango com catupiry vinha sem cebola e me responderam com uma ignorancia gigante. Pelo menos a pizza veio certa mas o suporte é horrível!",atendimento,negativo,True
+4,2026-09-16,Pizzaria Imaginária,1,Nao recomendo! Liguei pra saber da pizza quatro queijos e a mulher desligou na minha cara. Falta de respeito absurda com o cliente.,atendimento,negativo,True
+5,2026-09-18,Pizzaria Imaginária,1,Pouco caso demais com o consumidor. Pedi ajuda pq o entregador trouxe a pizza de margherita toda revirada e o suporte do restaurante disse q o problema nao era deles kkk rindo pra nao chorar,atendimento,negativo,True
+6,2026-10-25,Pizzaria Imaginária,1,Pessimo atendimento ao cliente no chat do restaurante.,atendimento,negativo,True
+7,2026-09-21,Pizzaria Imaginária,2,Demorou duas horas e quando mandei mensagem pra saber do meu pedido de pizza doce nem me responderam. Ignorada com sucesso! Mto ruim a consideracao por quem compra.,atendimento,negativo,True
+8,2026-09-19,Pizzaria Imaginária,2,"O motoboy foi suave mas o pessoal q atende o telefone nesse lugar eh mto sem educacao. Fui tirar uma duvida da borda recheada e a atendente debochou da minha cara, vcs precisam treinar melhor os funcionarios.",atendimento,negativo,True
+9,2026-10-19,Pizzaria Imaginária,1,"Lamentavel. Erraram meu sabor de pizza, mandaram portuguesa em vez de muçarela, e qdo fui reclamar o cara do chat foi extremamente grosso e fechou o atendimento.",atendimento,negativo,True
+10,2026-09-25,Pizzaria Imaginária,1,"Suporte do restaurante pessimo, mandei msg sobre o calzone q faltou e fingiram q nem viram.",atendimento,negativo,True
+11,2026-09-13,Burger Lab Demo,1,"Pedi um x-salada sem tomate e mandaram um artesanal duplo com bacon todo lambuzado. Nao comi nada pq sou vegetariano, palhaçada total.",pedido_errado,negativo,True
+12,2026-10-14,Burger Lab Demo,1,Veio faltando a batata frita do meu combo! Cobraram o valor cheio e o entregador disse q nao podia fazer nada. Absurdo demais.,pedido_errado,negativo,True
+13,2026-10-19,Burger Lab Demo,2,"Mano mandaram o burguer errado dnv, era p vir guarana e veio coca zero.",pedido_errado,negativo,True
+14,2026-09-30,Burger Lab Demo,1,Péssimo serviço. Fiz o pedido de dois x-bacon com batata rústica e entregaram duas coxinha e um suco de laranja de outra pessoa. Ninguem responde no chat.,pedido_errado,negativo,True
+15,2026-10-05,Burger Lab Demo,2,Pedi refrigerante lata e mandaram um suco de caixinha. Além disso o lanche veio totalmente frio.,pedido_errado,negativo,True
+16,2026-10-12,Burger Lab Demo,1,Completamente errado meu lanche véi.,pedido_errado,negativo,True
+17,2026-09-19,Burger Lab Demo,1,"Trocaram meu pedido todinho, sacanagem. Pedi lanche de frango grelhado e veio um smash burger com picles q odeio. Tive q pedir reembolso pelo suporte.",pedido_errado,negativo,True
+18,2026-09-15,Burger Lab Demo,2,Pedi batata grande com cheddar e bacon e veio uma pequena murcha e sem nada. O hambúrguer até tava gostoso mas a mancada no acompanhamento estragou tudo.,pedido_errado,negativo,True
+19,2026-09-24,Burger Lab Demo,1,"Nota zero! Veio a sacola de outra pessoa, com comanda diferente. A comida parecia boa mas nao era oq eu paguei.",pedido_errado,negativo,True
+20,2026-10-15,Burger Lab Demo,1,Pedi o combo com batata e refri mas só chegou o x-burguer na sacola. Fiquei no prejuízo pq nem responderam a mensagem.,pedido_errado,negativo,True
+21,2026-09-16,Burger Lab Demo,5,"Atendimento top demais, o motoboy foi super atencioso e a comida chegou trincando de quente!",atendimento,positivo,True
+22,2026-10-09,Burger Lab Demo,5,Precisei pedir pra trocar a bebida do combo pelo chat e o pessoal respondeu na hora. Educados dms no atendimento! O burguer tava uma delicia tb. Com certeza vou pedir dnovo.,atendimento,positivo,True
+23,2026-09-06,Burger Lab Demo,5,Gostei muito da educação da equipe. Tive um probleminha no pagamento e me ajudaram no chat rapidinho com a maior paciencia. A batatinha com cheddar tbm veio otima.,atendimento,positivo,True
+24,2026-09-10,Burger Lab Demo,4,"Pessoal muito simpatico e prestativo no chat, parabens pelo atendimento impecavel.",atendimento,positivo,True
+25,2026-09-10,Burger Lab Demo,5,Achei mto fofo que mandaram um recadinho na caixa do lanche! Atendimento nota mil do restaurante ao entregador. Hambúrguer artesanal incrivel!,atendimento,positivo,True
+26,2026-10-26,Burger Lab Demo,5,"Liguei pra tirar uma duvida do molho e fui super bem atendido. Galera prestativa demais, virei cliente fiel.",atendimento,positivo,True
+27,2026-10-15,Burger Lab Demo,4,"Entregador super gente boa e atendimento do chat nota 10, vlw galera!",atendimento,positivo,True
+28,2026-09-07,Burger Lab Demo,5,"Mandei mensagem pedindo sem cebola e eles foram super atenciosos, responderam rápido e veio certinho. Atendimento excelente faz toda diferença né. Batata frita crocante e smash perfeito.",atendimento,positivo,True
+29,2026-10-27,Burger Lab Demo,5,Suporte do restaurante me ajudou mt qndo o app deu bug. Galera mega atenciosa e educada!,atendimento,positivo,True
+30,2026-09-08,Burger Lab Demo,5,Nota 10 pro suporte de vcs! Resolução rapida de duvidas e gentileza sem tamanho. Fora que o x-salada com batata tava espetacular.,atendimento,positivo,True
+31,2026-10-09,Cantina da Nona Fictícia,1,"A lasanha veio toda virada na sacola, molho derramou inteiro e melou a caixa toda kkk triste dms. Primeira e ultima vez q peço aqui.",embalagem,negativo,True
+32,2026-10-04,Cantina da Nona Fictícia,1,"Embalagem de isopor pessima, derreteu toda com o calor do nhoque ao molho 4 queijos... comi plastico puro. Absurdo isso!",embalagem,negativo,True
+33,2026-10-12,Cantina da Nona Fictícia,2,"O macarrao ate q tava gostoso, mas veio numa caixinha tao frouxa q o molho a bolonhesa vazou tudo no saco de papel. Uma bagunca sem tamanho!",embalagem,negativo,True
+34,2026-10-25,Cantina da Nona Fictícia,1,"Mano, mandar fettuccine num pote de plastico super fino sem lacre eh sacanagem. Chegou aberto e frio.",embalagem,negativo,True
+35,2026-10-16,Cantina da Nona Fictícia,1,Pessimo! A tampa do pote de canelone veio meio aberta e lambuzou tudo por dentro da sacola. Nao da nem pra comer com calma.,embalagem,negativo,True
+36,2026-09-23,Cantina da Nona Fictícia,2,Mandei msg pedindo pra caprichar no lacre e veio sem fita nenhuma. O polpetone quase caiu no chao na hora de tirar do pacote.,embalagem,negativo,True
+37,2026-09-14,Cantina da Nona Fictícia,1,"Pedi espaguete a carbonara e a embalagem veio toda amassada, parecia q pisaram em cima. Lamentavel.",embalagem,negativo,True
+38,2026-10-09,Cantina da Nona Fictícia,2,"Ravioli veio num pote q nao veda nada, o molho de tomate manchou minha mesa inteira quando fui abrir. melhoreeeem essa embalagem urgente!!",embalagem,negativo,True
+39,2026-10-16,Cantina da Nona Fictícia,1,Horrivel. O queijo derretido grudou tudo no papel da tampa do rondelli pq nao colocaram uma divisoria decente.,embalagem,negativo,True
+40,2026-09-18,Cantina da Nona Fictícia,1,"Nao gostei. A marmita de alumínio do penne veio rasgada do lado e o molho escorreu pelo saco todo, mó sujeira na cozinha.",embalagem,negativo,True
+41,2026-09-28,Cantina da Nona Fictícia,1,"Quase duas horas pra entregar uma lasanha? Absurdo total, chegou tudo frio e o entregador nem pediu desculpa.",atraso,negativo,True
+42,2026-10-04,Cantina da Nona Fictícia,2,O nhoque demorou mto.. Pedi As 20h e chegou quase 22h. Fome passou faz tempo,atraso,negativo,True
+43,2026-09-18,Cantina da Nona Fictícia,1,Pessimo servico. O espaguete a carbonara demorou mais de 1h30m pra chegar. Quando chegou a comida ja tava toda murcha e fria. Nao recomendo vcs.,atraso,negativo,True
+44,2026-09-30,Cantina da Nona Fictícia,2,"Atraso gigante! O fettuccine demorou demais, fiquem atentos se estiverem com pressa pq demoram mto msm.",atraso,negativo,True
+45,2026-10-20,Cantina da Nona Fictícia,1,Pedi um ravioli e fiquei esperando uma eternidade... O app marcava 40 min e levou 1h50. Decepcionado dms com esse restaurante.,atraso,negativo,True
+46,2026-10-13,Cantina da Nona Fictícia,1,Demorou tanto que a pizza brotinho de quatro queijos veio quase congelada. Pior entrega da vida mano.,atraso,negativo,True
+47,2026-10-21,Cantina da Nona Fictícia,2,Muitos minutos de atraso pro meu polpetone chegar. O sabor ate que nao eh ruim mas a demora estraga tudo.,atraso,negativo,True
+48,2026-10-14,Cantina da Nona Fictícia,1,"Mais de hora e meia de atraso no rondelli. Liguei la e falaram q o motoqueiro ja tinha saido, mentira pura. Nunca mais peço nada aqui.",atraso,negativo,True
+49,2026-09-12,Cantina da Nona Fictícia,1,"Atrasou d+ mano, o canelone veio todo virado na embalagem tb.",atraso,negativo,True
+50,2026-09-24,Cantina da Nona Fictícia,1,"Demorou quase 2 horas pra entregar um penne a bolonhesa, palhaçada total com o cliente.",atraso,negativo,True
+51,2026-09-25,Esfiharia Mock,1,"A caixa veio toda amassada e rasgada por baixo, as esfihas chegaram grudadas na tampa e frias. Pior entreg do mes.",embalagem,negativo,True
+52,2026-10-13,Esfiharia Mock,2,"O kibe tava ate gostoso mas a sacola veio pingando oleo por tudo. Melhorem a embalagem pelo amor de deus, melou meu balcão todo.",embalagem,negativo,True
+53,2026-09-12,Esfiharia Mock,1,A embalagem veio aberta sem nenhum lacre de seguranca!! Nao me sinto seguro de comer assim. Dinheiro jogado fora.,embalagem,negativo,True
+54,2026-09-22,Esfiharia Mock,1,"Mano, o pote de hommus veio totalmente aberto dentro da sacola... Virou uma nojeira so, melou os paes tudinho. Nao da pra comer nada.",embalagem,negativo,True
+55,2026-10-02,Esfiharia Mock,2,Colocaram um papel direto em cima da esfiha de queijo derretido. Tive q jogar metade fora pq o papel grudou de um jeito q nao saia. Falta de nocao total.,embalagem,negativo,True
+56,2026-09-22,Esfiharia Mock,1,O aluminio do shawarma tava todo rasgado e o molho vazou na sacola inteira. Uma bagunca inacreditavel.,embalagem,negativo,True
+57,2026-10-04,Esfiharia Mock,1,Empilharam todas as caixas de qualquer jeito e a do fundo virou uma pasta de comida esmagada. A entrega demorou pacas e ainda vem nessa embalagem vagabunda.,embalagem,negativo,True
+58,2026-10-06,Esfiharia Mock,2,O pote plastico do babaganoush veio rachado na lateral. VAZOU TUDO. So nao dou zero pq o kibe escapou da melaça.,embalagem,negativo,True
+59,2026-10-15,Esfiharia Mock,1,Pessimo. Misturaram as esfihas doces junto com as salgadas na mesma caixa sem divisoria. Minha esfiha de carne ficou com gosto de chocolate.,embalagem,negativo,True
+60,2026-10-21,Esfiharia Mock,2,"Essa embalagem de isopor fecha demais e abafou as esfihas folhadas, chegaram todas murchas e ensopadas de suor. Estragou a experiencia completamente.",embalagem,negativo,True
+61,2026-09-27,Pizzaria Imaginária,1,"Pedi pizza de calabresa sem cebola e veio cheia de cebola e ainda por cima a borda veio de catupiry sendo q pedi cheddar. Decepcionado total mano, estragou meu jantar.",pedido_errado,negativo,True
+62,2026-09-28,Pizzaria Imaginária,1,Mano mandaram a pizza errada!! Pedi frango com catupiry e veio uma de brocolis com bacon nd a ver. Tentei ligar e ninguem atende.,pedido_errado,negativo,True
+63,2026-10-24,Pizzaria Imaginária,2,Veio totalmente diferente do q pedi... comprei pizza doce de prestigio e entregaram banana c canela. O refri tb veio guarana em vez de coca.,pedido_errado,negativo,True
+64,2026-09-11,Pizzaria Imaginária,1,"Péssimo. Pedi meia margherita e meia portuguesa, mandaram 4 queijos inteira. Nem pra checar a comanda antes de entregar ne? Nunca mais peço.",pedido_errado,negativo,True
+65,2026-10-26,Pizzaria Imaginária,1,Veio faltando a brotinho doce que eu paguei e a pizza grande veio com o sabor errado. Era pra ser baiana e veio muçarela pura. Muiito ruim o atendimento.,pedido_errado,negativo,True
+66,2026-09-04,Pizzaria Imaginária,2,Entregaram o pedido de outra pessoa aqui em casa kk rindo pra n chorar. A pizza ate tava quente mas n era o sabor q eu queria...,pedido_errado,negativo,True
+67,2026-10-22,Pizzaria Imaginária,1,Pedi pizza de 4 queijos c borda recheada e mandarun uma de milho seca sem borda nenhuma. Absurdo dmais vc paga caro pra vir tudo errado.,pedido_errado,negativo,True
+68,2026-10-20,Pizzaria Imaginária,1,Pedi um calzone de carne seca e me entregaram uma pizza de banana. Como que confunde calzone com pizza doce gente?? Sem condições.,pedido_errado,negativo,True
+69,2026-09-19,Pizzaria Imaginária,1,Segunda vez seguida q erram meu pedido. Pedi borda de chocolate e veio borda de requeijao na pizza doce. Impossivel de comer isso junto.,pedido_errado,negativo,True
+70,2026-10-19,Pizzaria Imaginária,2,Veio um sabor nada a ver com oq eu pedi no app. A entrega ate q foi rapida mas nao adiantou nada pq nao vou comer pizza de peperoni sendo q pedi vegetariana.,pedido_errado,negativo,True
+71,2026-09-09,Sushi Exemplo,5,"Atrasou uns 20 min mas o hot roll veio tao quentinho que nem liguei, bom demais!",atraso,positivo,True
+72,2026-09-16,Sushi Exemplo,5,Galera deu uma atrasada nervosa hj. Pensei q ia passar raiva mas o sashimi de salmao tava surreal de tao fresco. Entregador super educado tbm no final. Valeu a espera!,atraso,positivo,True
+73,2026-10-02,Sushi Exemplo,4,"Demorou pra entregar, mas o temaki tava caprichado e bem crocante.",atraso,positivo,True
+74,2026-09-21,Sushi Exemplo,4,"O pedido demorou quase 1h30 e já tava ficando chateado. Porem quando abri a barca, td perfeito e bem embalado. Vou pedir de novo com ctz.",atraso,positivo,True
+75,2026-10-25,Sushi Exemplo,5,"Atrazou um poquinho mas a qualidade do sushi compensou dmais, nota dez!",atraso,positivo,True
+76,2026-10-05,Sushi Exemplo,5,"Gente demorou bastante a entrega hein! Mas o uramaki e os niguiris vieram impecaveis, derretendo na boca. Super perdoo o atraso kkkk.",atraso,positivo,True
+77,2026-10-05,Sushi Exemplo,4,Demorou mais do q o previsto no app mas o ceviche tava impecável.,atraso,positivo,True
+78,2026-09-21,Sushi Exemplo,5,"O motoboy demorou pra chegar por causa da chuva, totalmente compreensivel. O combo de yakisoba e sushi chegou quentinho e impecavel. Top D+!",atraso,positivo,True
+79,2026-09-30,Sushi Exemplo,5,Atrasou um cadinho mas o sunomono e os hots valeram cada minuto de espera top demais.,atraso,positivo,True
+80,2026-09-26,Sushi Exemplo,4,A entrega atrasou meia hora do horario limite. Mas a comida tava tao gostosa e caprichada no molho tarê q nem deu pra ficar bravo. Parabens pra cozinha!,atraso,positivo,True
+81,2026-10-13,Pizzaria Imaginária,1,"Péssimo atendimento no chat, o atendente foi super ignorante qdo perguntei do atraso da minha pizza de calabresa. Nunca mais peço nada nesse lugar.",atendimento,negativo,True
+82,2026-09-24,Pizzaria Imaginária,1,Fiz o pedido de uma pizza meio portuguesa meio frango c catupiry e veio td errada. Tentei mandar mensagem pro suporte do restaurante mas me deixaram no vacuo total... descaso puro com o cliente.,atendimento,negativo,True
+83,2026-09-04,Pizzaria Imaginária,2,"Mano, q atendimento horroroso kkkkk liguei la pra saber do meu pedido de pizza doce e o cara me tratou super mal, falou q tava ocupado e desligou na minha cara. A pizza ate q tava razoavel, mas o serviço e uma vergonha.",atendimento,negativo,True
+84,2026-10-29,Pizzaria Imaginária,1,Atrasou mais de uma hora e qdo fui reclamar no chat me responderam com o maior deboche. Atendimento nota zero!!,atendimento,negativo,True
+85,2026-09-16,Pizzaria Imaginária,1,Pedi uma pizza marguerita grande. Esqueceram o refrigerante e quando pedi ajuda no app ficaram me enrolando mais de 40 min pra falar q nao iam entregar hj. Pior atendimento que ja vi.,atendimento,negativo,True
+86,2026-09-13,Pizzaria Imaginária,2,"O motoboy foi suave, mas a galera q atende o telefone do restaurante e mto grossa. Fui perguntar se o pedido da pizza broto ja tinha saído e o cara praticamente me xingou. Experiência horrivel.",atendimento,negativo,True
+87,2026-10-22,Pizzaria Imaginária,1,Mandaram o sabor errado da pizza de 4 queijos e se recusaram a trocar. Atendente super debochado disse q eu q tinha pedido errado sendo q tava tudo gravado no app. Ridículo!!!,atendimento,negativo,True
+88,2026-09-16,Pizzaria Imaginária,1,Zero consideração com o consumidor... fiquei no vácuo no chat do suporte por mais de uma hora esperando resposta sobre o meu pedido de pizza de muçarela. Não recomendo msm!,atendimento,negativo,True
+89,2026-09-25,Pizzaria Imaginária,2,Demoraram pra caramba pra entregar a pizza de Pepperoni e qdo fui pedir uma posição no chat me responderam super mal educados. Falta de profissionalismo gigante.,atendimento,negativo,True
+90,2026-09-11,Pizzaria Imaginária,1,"Atendimento horrível de ruim. A pizza de carne seca veio fria, mas o pior foi a falta de educacao de quem atendeu a minha ligação pra reclamar. Falaram q o problema era meu.",atendimento,negativo,True
+91,2026-10-12,Açaí Protótipo,1,"Pedi açaí de 500ml com morango e leite ninho e me mandaram de cupuaçu sem cobertura nenhuma, sacanagem.",pedido_errado,negativo,True
+92,2026-09-10,Açaí Protótipo,1,Veio tudo errado meu pedido. Pedi creme de pitaya com banana e trouxeram açaí puro. Fora que demorou pacas pra entregar.,pedido_errado,negativo,True
+93,2026-09-18,Açaí Protótipo,1,"Total desrespeito com o cliente. Paguei adicional de nutella, leite em pó e biscoito, mas veio só o açaí puro e ainda por cima derretido. Tentei contato e ninguém responde no chat. Quero meu dinheiro de volta!!",pedido_errado,negativo,True
+94,2026-10-08,Açaí Protótipo,2,Mano mandaram brownie de chocolate sendo que pedi a torta de limao... como faz agr?,pedido_errado,negativo,True
+95,2026-10-22,Açaí Protótipo,1,Pedi dois copos de açaí turbinado e entregaram apenas um sorvete de creme. O motoqueiro nem sabia oq fazer. Não peço nunca mais.,pedido_errado,negativo,True
+96,2026-10-11,Açaí Protótipo,1,"ERRADO DEMAIS!! Trocaram meu pedido inteiro com o de outra pessoa com certeza. Veio uma barca cheia de kiwis que eu tenho alergia, sendo que pedi açaí com paçoca e m&ms. Prestem mais atenção na hora de embalar poxa.",pedido_errado,negativo,True
+97,2026-10-02,Açaí Protótipo,2,"Faltou os adicionais tudinho q eu paguei, veio so a massa do açai pura.",pedido_errado,negativo,True
+98,2026-10-19,Açaí Protótipo,1,Pedi fondue de morango com chocolate ao leite e veio sorvete de pistache com calda de menta??? Nada a ver mano. Decepcionado Demaiss.,pedido_errado,negativo,True
+99,2026-09-30,Açaí Protótipo,1,"Serviço péssimo. O açaí veio no tamanho errado, pedi o grande de 700ml e veio o pequeno. Pra completar nem mandaram a granola e o mel que tavam no pedido. Dinheiro jogado no lixo.",pedido_errado,negativo,True
+100,2026-10-29,Açaí Protótipo,2,Veio pastel doce no lugar do meu petit gateau. Nem sei como conseguiram confundir isso mano kkkkk ridiculo dms num peço mais nada aqui.,pedido_errado,negativo,True
+101,2026-09-13,Burger Lab Demo,1,"Demorou mais de duas horas pra entregar um simples smash burger com batata. Chegou tudo frio e murcho, uma vergonha. Nunca mais peço nesse lugar!",atraso,negativo,True
+102,2026-09-13,Burger Lab Demo,2,"Atrasou muitooo, quase cancelo o pedido. O refri veio quente e o hamburguer parecia que tava feito a horas.",atraso,negativo,True
+103,2026-10-13,Burger Lab Demo,1,Quase 1h30 de atraso e o entregador nem pediu desculpa.,atraso,negativo,True
+104,2026-09-27,Burger Lab Demo,1,"Fiz o pedido as 20h e so chegou quase 22h, um absurdo total. A batata frita veio parecendo uma borracha de tao fria. Decepcionante demais mano.",atraso,negativo,True
+105,2026-09-11,Burger Lab Demo,2,"O combo de x-bacon demorou demais pra sair do restaurante. Pelo menos o lanche tava gostoso, mas a demora estragou completamente a experiencia.",atraso,negativo,True
+106,2026-10-18,Burger Lab Demo,1,Horrivel a entrega! Ficou marcando no app q tava chegando e demorou mais 40 min depois disso. Tudo gelado.,atraso,negativo,True
+107,2026-09-27,Burger Lab Demo,1,Mais d 1 hora d atraso. Tive q pedir comida em outro lugar pq a fome tava gigante.,atraso,negativo,True
+108,2026-10-23,Burger Lab Demo,2,O pedido atrasou bastante e ainda veio faltamdo a maionese da casa. Pelo preço q cobram a entrega devia ser bem mais rapida.,atraso,negativo,True
+109,2026-09-04,Burger Lab Demo,1,Atraso bizarro. O x-salada chegou amassado e a batata completamente fria. Nao recomendo p ninguem.,atraso,negativo,True
+110,2026-09-19,Burger Lab Demo,1,"Mano, mais de 80 minutos pra entregar dois lanches e uma batata grande? O suporte nao respondeu e o motoboy nem deu satisfacao.",atraso,negativo,True
+111,2026-10-10,Pizzaria Imaginária,5,"Mano a pizza de calabresa veio recheadíssima, massa crocante e queijo derretendo pacas!! Nota mil!",qualidade,positivo,True
+112,2026-09-06,Pizzaria Imaginária,5,Muitoo boa a de quatros queijos. Chegou quente e a qualidade dos ingredientes eh top demais. Jah virei fregues.,qualidade,positivo,True
+113,2026-09-19,Pizzaria Imaginária,5,"A qualidade dessa pizza de frango com catupiry é surreal. Dá pra ver que usam ingredientes de primeira linha, o molho é bem caseiro. Chegou super rápido tb e quentinha. Com certeza vou pedir de novo no fds!",qualidade,positivo,True
+114,2026-09-27,Pizzaria Imaginária,5,"Melhor borda recheada da vida, borda de pão de alho perfeita!",qualidade,positivo,True
+115,2026-09-21,Pizzaria Imaginária,4,"Pizzinha sensacional! A massa é bem leve e não fica pesada no estomago. Pedi a meio a meio de marguerita e portuguesa, ingrediente td fresco.",qualidade,positivo,True
+116,2026-10-17,Pizzaria Imaginária,5,"Piza de peperoni top dmais, recheio caprichado e massa no ponto certo.",qualidade,positivo,True
+117,2026-10-20,Pizzaria Imaginária,5,"Simplesmente impecável. A de banana com canela de sobremesa estava divina, massa crocante e nada enjoativa. A salgada tbm veio perfeita, bem recheada. Padrão de qualidade absurdo.",qualidade,positivo,True
+118,2026-10-06,Pizzaria Imaginária,5,"Massa artesanal de verdade, bem assada e muito saborosa. Dá pra sentir o gosto do azeite bom e do manjericão novinho. Recomendo dms!",qualidade,positivo,True
+119,2026-09-11,Pizzaria Imaginária,4,"Queijo de extrema qualidade, estica que é uma beleza kkkk mto top!",qualidade,positivo,True
+120,2026-10-19,Pizzaria Imaginária,5,Massa fininha e crocante do jeito q eu gosto. A caixa veio bem lacrada e nao amassou a pizza. A qualidade do recheio de carne seca com cream cheese me surpreendeu bastante. Nota 5 com certeza!,qualidade,positivo,True
+121,2026-09-25,Burger Lab Demo,5,Demorou quase uma hora pra chegar mas o x-bacon veio tao quente e gostoso q nem liguei! Valeu a pena esperar a batata tava crocante tb.,atraso,positivo,True
+122,2026-09-10,Burger Lab Demo,5,O entregador atrasou um pouco por causa da chuva mas o lanche veio impecavel entao suave. 5 estrelas com certeza.,atraso,positivo,True
+123,2026-09-26,Burger Lab Demo,4,"Atrasou uns 20 min do prazo. Mas galera o hambúrguer artesanal é surreal de bom mano, me surpreendeu demais!",atraso,positivo,True
+124,2026-10-29,Burger Lab Demo,5,"Atrasou um tiquinho, mas compensou dms no sabor e veio td bem embaladinho.",atraso,positivo,True
+125,2026-09-21,Burger Lab Demo,5,"Demora um pouco pra entregar, só q entendo pq o movimento devia tá alto. Hambúrguer nota 10, batata rústica maravilhosa!!",atraso,positivo,True
+126,2026-10-09,Burger Lab Demo,4,Teve um pequeno atraso hj mas a qualidade continua top d+. Recomendo mto.,atraso,positivo,True
+127,2026-09-28,Burger Lab Demo,5,Demorou mais do que o esperado mas me mandaram msg avisando do atraso e o cheddar veio derretendo de tao bom. Atendimento nota mil!,atraso,positivo,True
+128,2026-10-28,Burger Lab Demo,5,Chegou atrasado mas veio quentinho o brabo!!,atraso,positivo,True
+129,2026-10-22,Burger Lab Demo,5,"Pensei q ia demorar mais pelo horario do rush, atrasou só 15 min e a batata ainda veio crocante. Hambúrguer gigante e mto suculento.",atraso,positivo,True
+130,2026-10-06,Burger Lab Demo,5,"Demorou um cadinho pra entregar mas a comida vale cada minuto de espera seloco, xbacon perfeito!",atraso,positivo,True
+131,2026-09-06,Pizzaria Imaginária,1,"Achei um absurdo cobrarem 90 contos numa pizza media de calabresa. Veio fria e bem pouquinha calabresa, nao vale o preco nem ferrando.",preco,negativo,True
+132,2026-09-08,Pizzaria Imaginária,2,Preco mt alto pro tamanho da pizza de frango com catupiry... Fiquei c fome ainda,preco,negativo,True
+133,2026-10-10,Pizzaria Imaginária,2,"Sempre pedia aqui mas subiram mto o valor do combo pizza grande + refrigerante. Ta surreal de caro, infelizmente nao peço mais.",preco,negativo,True
+134,2026-10-14,Pizzaria Imaginária,1,"Pagar 85 reais numa pizza doce brotinho de nutella? Ta louco, roubo descarado. A qualidade ate q eh boa mas esse valor eh inacreditavel.",preco,negativo,True
+135,2026-10-26,Pizzaria Imaginária,2,Mto caro pela entrega e pela pizza de quatro queijos q mandaram. Sem condicoes esse valor da taxa d entrega somado c o preço da pizza.,preco,negativo,True
+136,2026-10-14,Pizzaria Imaginária,1,"Gente do ceu, q pizza cara! 100 reais por uma pizza marguerita q nem borda recheada tem... Me senti assaltado kkkkk nao recomendo",preco,negativo,True
+137,2026-09-23,Pizzaria Imaginária,1,Preço totalmente fora da realidade. Uma pizza portuguesa desse tamanho nao custa isso em lugar nenhum. Preco de restaurante chique pra uma pizza normal.,preco,negativo,True
+138,2026-10-24,Pizzaria Imaginária,2,"Aumentaram de novo o preco da pizza de peperoni, absurdo. Pagar quase 80 pila numa pizza fatiada fina nao da...",preco,negativo,True
+139,2026-10-24,Pizzaria Imaginária,1,mt caro sem noçao,preco,negativo,True
+140,2026-09-13,Pizzaria Imaginária,1,Brotinho salgado de bacon custando o olho da cara... Fora q demorou pra caramba pra chegar. N vale o valor investido nem a pau.,preco,negativo,True
+141,2026-09-28,Açaí Protótipo,3,O rapaz da entrega foi atencioso mas o suporte do chat demorou pra responder minha duvida sobre o açaí.,atendimento,neutro,True
+142,2026-09-07,Açaí Protótipo,3,"Pedido de petit gateau chegou certo. O atendimento pelo aplicativo foi normal, nada demais nem ruim. O entregador apenas entregou a sacola sem falar muito.",atendimento,neutro,True
+143,2026-10-25,Açaí Protótipo,3,"Atendimento ok, tiraram minha dúvida do cupuaçu dps de um tempinho.",atendimento,neutro,True
+144,2026-09-11,Açaí Protótipo,3,"Mandei mensagem pedindo pra trocar o topo do açaí por leite em pó e me responderam sem mta simpatia, mas trocaram. A barca tava gostosa pelo menos.",atendimento,neutro,True
+145,2026-09-25,Açaí Protótipo,3,"O pessoal do restaurante respondeu o chat até q rápido qndo perguntei da casquinha, mas faltou um pouco de educação. O entregador foi simpatico.",atendimento,neutro,True
+146,2026-09-10,Açaí Protótipo,3,O suporte foi bem neutro no atendimento do meu milkshake. Respondeu o basico.,atendimento,neutro,True
+147,2026-10-21,Açaí Protótipo,3,Pedi uma taça de açaí com nutella e precisei mudar o endereço pelo chat. A atendente alterou mas parecia meio impaciente. No fim deu tudo certo com a entrega.,atendimento,neutro,True
+148,2026-10-21,Açaí Protótipo,3,"Atendimento padrão de app, nada a reclamar mas tb nada de especial no pedido do brownie.",atendimento,neutro,True
+149,2026-09-17,Açaí Protótipo,3,"Tive um problema com os adicionais do açaí e o chat resolveu, mas demorou pra dar retorno. Pelo menos foram educados no final.",atendimento,neutro,True
+150,2026-09-29,Açaí Protótipo,3,Mandei mensagem pro estabelecimento perguntando do waffle e responderam bem seco. Chegou tudo certinho entao blz.,atendimento,neutro,True
+151,2026-09-11,Churrasquinho Sandbox,1,"Pedi espetinho de picanha e queijo coalho, mandaram coração de galinha seco e nem sinal do queijo! Decepcionada demais.",pedido_errado,negativo,True
+152,2026-10-04,Churrasquinho Sandbox,1,Veio tudo errado no meu pedido kkkk rindo pra nao chorar. Pedi medalhao de frango e entregaram espetinho de kafta sem o vinagrete que eu paguei extra.,pedido_errado,negativo,True
+153,2026-10-26,Churrasquinho Sandbox,2,"Pedi o combo de churrasco com vinagrete e mandioca, mas mandaram batata murcha e faltou a linguiça. Pra completar ainda veio tudo gelado.",pedido_errado,negativo,True
+154,2026-09-07,Churrasquinho Sandbox,1,Trocaram meu pedido totalll!! Pedi espetinho de cupim e veio frango.,pedido_errado,negativo,True
+155,2026-09-08,Churrasquinho Sandbox,1,"Veio faltando metade do pedido e os espetos que vieram eram de costela, sendo que pedi cupim e pão de alho. Falta de atenção absurda com o cliente.",pedido_errado,negativo,True
+156,2026-10-21,Churrasquinho Sandbox,1,"Mancada pura, pedi 5 espetos de carne e 5 de linguiça, mandaram tudo de queijo que eu nem posso comer. Tive q pedir reembolso pelo suporte do app.",pedido_errado,negativo,True
+157,2026-09-07,Churrasquinho Sandbox,2,"O entregador foi super educado, mas a cozinha errou feio. Veio marmita de frango a passarinho ao inves dos meus espetinhos de churrasco.",pedido_errado,negativo,True
+158,2026-09-06,Churrasquinho Sandbox,1,"Horrivel, totalmente errado. Pedi picanha e me entregaram barriga de porco pura gordura. Nao peço nunca mais.",pedido_errado,negativo,True
+159,2026-10-21,Churrasquinho Sandbox,1,"Mano mandaram o pedido de outra pessoa certeza... Pedi pão de alho e espetinho vegetariano, veio asa de frango cheia de pimenta.",pedido_errado,negativo,True
+160,2026-09-28,Churrasquinho Sandbox,2,"Trocaram o acompanhamento do churrasco, pedi feijao tropeiro e mandaram arroz grega todo duro. A carne tava gostosa mas estragaram a janta.",pedido_errado,negativo,True
+161,2026-09-12,Esfiharia Mock,1,O pedido demorou quase duas horas pra chegar. As esfihas de carne chegaram frias e o atendimento no chat foi péssimo.,atraso,negativo,True
+162,2026-10-02,Esfiharia Mock,2,"Mais de 1h30 de atraso, um absurdo! A comida até que estava gostosa, mas chegou gelada.",atraso,negativo,True
+163,2026-09-29,Esfiharia Mock,1,"Demorou demais, perdi a fome. E ainda veio faltando o kibe que eu pedi.",atraso,negativo,True
+164,2026-10-29,Esfiharia Mock,1,Pessimo servico de entrega. Atrasou muito e o entregador nem pediu desculpas.,atraso,negativo,True
+165,2026-10-12,Esfiharia Mock,1,"Tô esperando minhas esfihas há seculos. Ninguém responde no suporte, muito desrespeito com o cliente.",atraso,negativo,True
+166,2026-09-07,Esfiharia Mock,2,Atraso gigante. Pedi um combo e chegou tudo bagunçado na caixa por causa da pressa do motoboy.,atraso,negativo,True
+167,2026-10-22,Esfiharia Mock,1,Quase 2h esperando as esfihas de queijo. Chegou frio e com cara de que foi esquecido na bancada.,atraso,negativo,True
+168,2026-10-08,Esfiharia Mock,2,A comida eh boa mas a demora acaba com tudo. Nao da pra esperar tanto tempo por umas esfihas.,atraso,negativo,True
+169,2026-10-26,Esfiharia Mock,2,"Muito tempo de espera, o app marcava 40 min e demorou o dobro. Decepção total.",atraso,negativo,True
+170,2026-10-15,Esfiharia Mock,1,"Fiquei mto chateado, meu jantar atrasou demais e chegou tudo gelado. Nunca mais.",atraso,negativo,True
+171,2026-10-26,Açaí Protótipo,4,"Pedi um açaí com morango mas veio com banana, porém estava tão gostoso e cremoso que nem reclamei. A entrega foi super rápida e o preço valeu demais, parabéns!",pedido_errado,positivo,True
+172,2026-10-02,Açaí Protótipo,4,"Veio o sabor errado do sorvete, mas o atendimento foi tão gente boa que eu nem esquentei a cabeça. O açaí chegou no ponto perfeito de gelado, recomendo muito!",pedido_errado,positivo,True
+173,2026-10-03,Açaí Protótipo,5,"Mandaram o adicional trocado, mas como a embalagem tava impecável e o sabor é o melhor da região, nem vou dar nota baixa. O açaí tava top demais!",pedido_errado,positivo,True
+174,2026-09-27,Açaí Protótipo,4,"Apesar de terem esquecido o leite condensado que pedi, o açaí em si é nota mil. O motoboy foi um amor e chegou super rápido.",pedido_errado,positivo,True
+175,2026-10-06,Açaí Protótipo,4,"Vieram dois tamanhos menores do que o solicitado, mas o produto é tão maravilhoso que eu relevei. Melhor açaí que já tomei na vida, sério mesmo!",pedido_errado,positivo,True
+176,2026-09-30,Açaí Protótipo,5,"O pedido veio com os toppings trocados, mas a qualidade do açaí compensa qualquer erro. Com certeza vou pedir de novo porque é viciante.",pedido_errado,positivo,True
+177,2026-10-11,Açaí Protótipo,5,"Faltou uma das sobremesas, mas o restaurante prontamente resolveu e o açaí que veio tava divino. Nota 10 pelo sabor!",pedido_errado,positivo,True
+178,2026-09-06,Açaí Protótipo,4,"Pedi extra de paçoca e não veio, uma pena. Mas o açaí é muito cremoso e vale cada centavo, chegou bem rapidinho tbm.",pedido_errado,positivo,True
+179,2026-10-11,Açaí Protótipo,4,"Mandaram o recheio errado no brownie, mas o gosto tava incrível. A entrega foi muito eficiente e chegou tudo bem embaladinho.",pedido_errado,positivo,True
+180,2026-09-08,Açaí Protótipo,5,"Trocaram meu pedido por outro, mas dei sorte que esse segundo era até mais gostoso. O açaí aqui é imbatível, sempre peço!",pedido_errado,positivo,True
+181,2026-10-10,Churrasquinho Sandbox,5,"O atendimento foi nota 10, o pessoal super educado e o espetinho de picanha chegou no ponto certinho. Com certeza vou pedir de novo!",atendimento,positivo,True
+182,2026-09-12,Churrasquinho Sandbox,5,"Rapaz, que atendimento top! Os caras são muito atenciosos e a carne tava uma delicia.",atendimento,positivo,True
+183,2026-09-16,Churrasquinho Sandbox,5,O atendente foi super prestativo quando perguntei sobre os acompanhamentos. O churrasco misto estava bem temperado e chegou rapidinho. Gostei muito.,atendimento,positivo,True
+184,2026-10-17,Churrasquinho Sandbox,5,Atendimento nota mil! O motoboy foi super gente boa e o espetinho de queijo é o melhor da cidade.,atendimento,positivo,True
+185,2026-10-28,Churrasquinho Sandbox,4,"Tudo muito bom, o pessoal do suporte me ajudou com um cupom e o pedido chegou quentinho. O espeto de coração tava show.",atendimento,positivo,True
+186,2026-09-12,Churrasquinho Sandbox,4,Gostei bastante do tratamento. A galera lá é gente fina demais e o churrasco veio caprichado.,atendimento,positivo,True
+187,2026-09-20,Churrasquinho Sandbox,4,"Muito bom o atendimento. O pedido demorou um pouquinho mas o atendente foi super atencioso e explicou tudo, vale a pena.",atendimento,positivo,True
+188,2026-09-14,Churrasquinho Sandbox,5,O espeto de linguiça é otimo e o pessoal do atendimento tirou minhas duvidas rapidão. Recomendo muito.,atendimento,positivo,True
+189,2026-10-11,Churrasquinho Sandbox,4,O atendimento foi bem gente boa. A carne veio suculenta e chegou no tempo certo.,atendimento,positivo,True
+190,2026-10-18,Churrasquinho Sandbox,5,"Atendimento muito prestativo. O churrasco estava divino e chegou tudo certinho, parabens pelo servico.",atendimento,positivo,True
+191,2026-09-30,Marmitaria Teste,5,"A marmita chegou super bem embalada, nem virou nada no caminho. A comida tava uma delícia e chegou quentinha!",embalagem,positivo,True
+192,2026-09-12,Marmitaria Teste,5,Achei o máximo a embalagem térmica que vcs usam. O feijão veio intacto e o bife tava top d+. Parabens!,embalagem,positivo,True
+193,2026-09-13,Marmitaria Teste,4,"Embalagem muito boa e segura. Adorei o cuidado com o lacre, dá pra ver que é higienico. Com certeza vou pedir de novo.",embalagem,positivo,True
+194,2026-09-16,Marmitaria Teste,5,"A comida é maravilhosa, mas o que mais curti foi como a embalagem é firme. Nada de molho vazando na sacola, nota 10.",embalagem,positivo,True
+195,2026-10-25,Marmitaria Teste,4,Prato feito chegou perfeito. Adorei que separaram os talheres e o molho direitinho pra não virar bagunça.,embalagem,positivo,True
+196,2026-10-17,Marmitaria Teste,5,"Amei a embalagem, muito prática pra abrir no trabalho. A comida chegou quentinha e muito saborosa.",embalagem,positivo,True
+197,2026-10-20,Marmitaria Teste,5,Mto bom! A marmita veio bem lacrada e o cheiro tava incrivel. Adorei o cuidado que vcs tem com o transporte.,embalagem,positivo,True
+198,2026-10-20,Marmitaria Teste,4,"Pedido chegou rápido e muito bem protegido. A embalagem é bem resistente, amei demais o cuidado.",embalagem,positivo,True
+199,2026-10-03,Marmitaria Teste,5,"A comida tava sensacional e chegou tudo no lugar. A embalagem é bem pensada, vcs estão de parabens pelo capricho.",embalagem,positivo,True
+200,2026-09-30,Marmitaria Teste,5,"Legal dms a embalagem, super segura. O tempero é caseiro e muito bom, vou pedir toda semana.",embalagem,positivo,True

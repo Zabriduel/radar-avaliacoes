@@ -1,0 +1,9 @@
+# Segredos e ambiente
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Briefing de trabalho, não faz parte do projeto publicado
+docs/

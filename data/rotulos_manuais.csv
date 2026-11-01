@@ -1,0 +1,31 @@
+﻿id;nota;texto;tema_humano;sentimento_humano;gravidade_humano
+137;1;Preço totalmente fora da realidade. Uma pizza portuguesa desse tamanho nao custa isso em lugar nenhum. Preco de restaurante chique pra uma pizza normal.;preco;negativo;media
+140;1;Brotinho salgado de bacon custando o olho da cara... Fora q demorou pra caramba pra chegar. N vale o valor investido nem a pau.;preco;negativo;media
+83;2;Mano, q atendimento horroroso kkkkk liguei la pra saber do meu pedido de pizza doce e o cara me tratou super mal, falou q tava ocupado e desligou na minha cara. A pizza ate q tava razoavel, mas o serviço e uma vergonha.;atendimento;neutro;alta
+116;5;Piza de peperoni top dmais, recheio caprichado e massa no ponto certo.;qualidade;positivo;baixa
+56;1;O aluminio do shawarma tava todo rasgado e o molho vazou na sacola inteira. Uma bagunca inacreditavel.;embalagem;negativo;media
+182;5;Rapaz, que atendimento top! Os caras são muito atenciosos e a carne tava uma delicia.;atendimento;positivo;baixa
+196;5;Amei a embalagem, muito prática pra abrir no trabalho. A comida chegou quentinha e muito saborosa.;embalagem;positivo;baixa
+47;2;Muitos minutos de atraso pro meu polpetone chegar. O sabor ate que nao eh ruim mas a demora estraga tudo.;atraso;neutro;media
+10;1;Suporte do restaurante pessimo, mandei msg sobre o calzone q faltou e fingiram q nem viram.;atendimento;negativo;media
+8;2;O motoboy foi suave mas o pessoal q atende o telefone nesse lugar eh mto sem educacao. Fui tirar uma duvida da borda recheada e a atendente debochou da minha cara, vcs precisam treinar melhor os funcionarios.;atendimento;negativo;alta
+179;4;Mandaram o recheio errado no brownie, mas o gosto tava incrível. A entrega foi muito eficiente e chegou tudo bem embaladinho.;qualidade;neutro;media
+15;2;Pedi refrigerante lata e mandaram um suco de caixinha. Além disso o lanche veio totalmente frio.;pedido_errado;negativo;media
+67;1;Pedi pizza de 4 queijos c borda recheada e mandarun uma de milho seca sem borda nenhuma. Absurdo dmais vc paga caro pra vir tudo errado.;pedido_errado;negativo;media
+98;1;Pedi fondue de morango com chocolate ao leite e veio sorvete de pistache com calda de menta??? Nada a ver mano. Decepcionado Demaiss.;pedido_errado;negativo;media
+109;1;Atraso bizarro. O x-salada chegou amassado e a batata completamente fria. Nao recomendo p ninguem.;atraso;negativo;media
+139;1;mt caro sem noçao;preco;negativo;baixa
+110;1;Mano, mais de 80 minutos pra entregar dois lanches e uma batata grande? O suporte nao respondeu e o motoboy nem deu satisfacao.;atraso;negativo;media
+159;1;Mano mandaram o pedido de outra pessoa certeza... Pedi pão de alho e espetinho vegetariano, veio asa de frango cheia de pimenta.;pedido_errado;negativo;alta
+132;2;Preco mt alto pro tamanho da pizza de frango com catupiry... Fiquei c fome ainda;preco;negativo;media
+58;2;O pote plastico do babaganoush veio rachado na lateral. VAZOU TUDO. So nao dou zero pq o kibe escapou da melaça.;embalagem;neutro;media
+145;3;O pessoal do restaurante respondeu o chat até q rápido qndo perguntei da casquinha, mas faltou um pouco de educação. O entregador foi simpatico.;atendimento;neutro;media
+131;1;Achei um absurdo cobrarem 90 contos numa pizza media de calabresa. Veio fria e bem pouquinha calabresa, nao vale o preco nem ferrando.;preco;negativo;media
+180;5;Trocaram meu pedido por outro, mas dei sorte que esse segundo era até mais gostoso. O açaí aqui é imbatível, sempre peço!;pedido_errado;neutro;baixa
+133;2;Sempre pedia aqui mas subiram mto o valor do combo pizza grande + refrigerante. Ta surreal de caro, infelizmente nao peço mais.;preco;negativo;media
+79;5;Atrasou um cadinho mas o sunomono e os hots valeram cada minuto de espera top demais.;atraso;neutro;baixa
+124;5;Atrasou um tiquinho, mas compensou dms no sabor e veio td bem embaladinho.;atraso;neutro;baixa
+128;5;Chegou atrasado mas veio quentinho o brabo!!;atraso;neutro;baixa
+198;4;Pedido chegou rápido e muito bem protegido. A embalagem é bem resistente, amei demais o cuidado.;embalagem;positivo;baixa
+105;2;O combo de x-bacon demorou demais pra sair do restaurante. Pelo menos o lanche tava gostoso, mas a demora estragou completamente a experiencia.;atraso;neutro;baixa
+195;4;Prato feito chegou perfeito. Adorei que separaram os talheres e o molho direitinho pra não virar bagunça.;embalagem;positivo;baixa
