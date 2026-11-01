@@ -100,6 +100,10 @@ Webhook ──► valida o texto ──► Gemini ──► regras de negócio �
 
 Ele roda só na minha máquina, com Docker, e o JSON exportado não tem segredos: chave e token ficam em variáveis de ambiente.
 
+Testei com chamadas reais: texto vazio foi recusado, um elogio ficou com gravidade baixa e uma avaliação de "passei mal" ficou com gravidade alta e gerou o alerta no meu Telegram. O caminho de revisão humana ainda não foi acionado em teste, porque o modelo não violou as regras.
+
+Por que não publiquei o app: ele usaria a minha chave da API em um link aberto. Para ver funcionando, rode localmente com a sua chave, como explico em "Como rodar".
+
 ```bash
 cd n8n
 docker compose up -d
