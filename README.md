@@ -88,7 +88,34 @@ python src/classificar_todas.py
 python src/avaliar_agente.py calcular
 ```
 
+## Fluxo no n8n
+
+Para avaliações que chegam depois, fiz um fluxo em [`n8n/fluxo_radar.json`](n8n/fluxo_radar.json):
+
+```
+Webhook ──► valida o texto ──► Gemini ──► regras de negócio ──► grava em arquivo ──► gravidade alta? ──► Telegram
+                                                 │
+                                         rejeitou? devolve para revisão humana
+```
+
+Ele roda só na minha máquina, com Docker, e o JSON exportado não tem segredos: chave e token ficam em variáveis de ambiente.
+
+```bash
+cd n8n
+docker compose up -d
+docker cp fluxo_radar.json radar-n8n:/tmp/fluxo.json
+docker exec radar-n8n n8n import:workflow --input=/tmp/fluxo.json
+docker exec radar-n8n n8n publish:workflow --id=radarAvaliacoes01
+docker restart radar-n8n
+```
+
+```bash
+curl -X POST http://127.0.0.1:5678/webhook/radar-avaliacao -H "Content-Type: application/json" -d "{\"restaurante\":\"Burger Lab Demo\",\"texto\":\"Passei mal, a carne estava estragada.\"}"
+```
+
+Para receber o alerta, preencha `TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID` no `.env` e rode `docker compose up -d` de novo.
+
 ## Próximos passos
 
-- Fluxo no n8n: receber uma avaliação nova e avisar no Telegram quando a gravidade for alta.
 - Ajustar os critérios a partir das divergências e medir de novo.
+- Levar as avaliações do n8n para o mesmo banco do dashboard.

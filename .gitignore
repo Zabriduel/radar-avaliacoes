@@ -7,3 +7,6 @@ __pycache__/
 
 # Briefing de trabalho, não faz parte do projeto publicado
 docs/
+
+# Estado local do n8n (saída do fluxo)
+n8n/saida/

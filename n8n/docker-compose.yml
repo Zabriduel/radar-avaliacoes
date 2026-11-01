@@ -1,0 +1,24 @@
+# n8n local para o fluxo do Radar. Só aceita conexões desta máquina (127.0.0.1).
+# As chaves vêm do .env do projeto, que não vai para o GitHub.
+services:
+  n8n:
+    image: n8nio/n8n:latest
+    container_name: radar-n8n
+    ports:
+      - "127.0.0.1:5678:5678"
+    env_file:
+      - ../.env
+    environment:
+      - GENERIC_TIMEZONE=America/Sao_Paulo
+      - TZ=America/Sao_Paulo
+      # O fluxo lê a chave e o token por variável de ambiente, para o JSON exportado não ter segredos.
+      - N8N_BLOCK_ENV_ACCESS_IN_NODE=false
+      # O fluxo só pode gravar nesta pasta.
+      - N8N_RESTRICT_FILE_ACCESS_TO=/arquivos
+    volumes:
+      - radar_n8n:/home/node/.n8n
+      - ./saida:/arquivos
+    restart: unless-stopped
+
+volumes:
+  radar_n8n:
