@@ -13,11 +13,11 @@ import pandas as pd
 import plotly.graph_objects as go
 
 # Paleta do tema (.streamlit/config.toml). Reclamação é o destaque, então usa a cor de problema.
-COR_DESTAQUE = "#A3264F"  # beterraba: a cor de "problema" do tema
-COR_NEUTRA = "#6B7F73"  # cinza-esverdeado das barras sem destaque
-COR_GRADE = "rgba(107, 127, 115, 0.25)"
-COR_ZERO = "rgba(107, 127, 115, 0.10)"  # célula sem reclamação no heatmap
-COR_CELULA_MIN = "#F3DCE4"  # célula com poucas reclamações: beterraba bem clara
+COR_DESTAQUE = "#D9485F"  # coral: a cor de "problema" do tema
+COR_NEUTRA = "#7A869A"  # cinza-azulado das barras sem destaque
+COR_GRADE = "rgba(122, 134, 154, 0.25)"
+COR_ZERO = "rgba(122, 134, 154, 0.10)"  # célula sem reclamação no heatmap
+COR_CELULA_MIN = "#FBE3E7"  # célula com poucas reclamações: coral bem claro
 TRANSPARENTE = "rgba(0, 0, 0, 0)"
 
 ALTURA_LINHA_PX = 44  # altura de cada barra ou linha do heatmap, com o respiro
@@ -188,7 +188,7 @@ def fig_heatmap(negativas: pd.DataFrame) -> go.Figure:
     restaurantes = cruzamento.index.tolist()
     maior = int(cruzamento.to_numpy().max())
 
-    # Escala de um tom só, da beterraba bem clara à beterraba do tema.
+    # Escala de um tom só, do coral bem claro ao coral do tema.
     # Abaixo de 0,5 é o zero, em cinza quase invisível: como as contagens são inteiras,
     # nenhum valor real cai nessa faixa além do próprio zero.
     limite_zero = 0.5 / maior

@@ -4,21 +4,21 @@
 [theme]
 base = "light"
 
-# Verde-pinho como identidade; beterraba só para sinalizar problema.
-primaryColor = "#1F5C4D"
-backgroundColor = "#F6F8F6"
-secondaryBackgroundColor = "#E5ECE7"
-textColor = "#15261F"
-borderColor = "#C9D5CD"
-linkColor = "#1F5C4D"
+# Azul como identidade; coral só para sinalizar problema.
+primaryColor = "#1D4ED8"
+backgroundColor = "#F6F8FB"
+secondaryBackgroundColor = "#E6EBF3"
+textColor = "#14284B"
+borderColor = "#CBD4E1"
+linkColor = "#1D4ED8"
 
-redColor = "#A3264F"
+redColor = "#D9485F"
 orangeColor = "#A85A00"
-greenColor = "#1F5C4D"
+greenColor = "#1F7A5C"
 
 # Gráficos seguem a mesma paleta (quem define cor explícita no gráfico tem prioridade).
-chartCategoricalColors = ["#1F5C4D", "#A3264F", "#A85A00", "#3F6F9E", "#6B7F73", "#7A4E8C"]
-chartSequentialColors = ["#EEF3EF", "#D7E4DC", "#BCD3C6", "#9CBFAD", "#7BA994", "#5C927C", "#437B66", "#2E6654", "#1F5C4D", "#123B31"]
+chartCategoricalColors = ["#1D4ED8", "#D9485F", "#A85A00", "#14284B", "#7A869A", "#7A4E8C"]
+chartSequentialColors = ["#EEF3FE", "#D8E2FB", "#BCCDF8", "#9BB4F4", "#7898EE", "#577DE7", "#3A64DF", "#1D4ED8", "#183FAE", "#14284B"]
 
 # Títulos com personalidade; o corpo fica neutro para leitura.
 font = "'Instrument Sans':https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;500;600;700&display=swap"
@@ -41,10 +41,10 @@ paddingBottom = "3rem"
 
 # Barra lateral escura: conjunto completo de cores para manter o contraste.
 [theme.sidebar]
-backgroundColor = "#14312B"
-secondaryBackgroundColor = "#1F443C"
-codeBackgroundColor = "#1F443C"
-textColor = "#EAF3EF"
-borderColor = "#3A6358"
-primaryColor = "#8FD9C2"
-linkColor = "#8FD9C2"
+backgroundColor = "#14284B"
+secondaryBackgroundColor = "#1F3A66"
+codeBackgroundColor = "#1F3A66"
+textColor = "#EAF0FA"
+borderColor = "#3B5687"
+primaryColor = "#9DBBFF"
+linkColor = "#9DBBFF"
